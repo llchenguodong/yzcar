@@ -1004,11 +1004,19 @@
 		    <version>0.9.0</version>
 		</dependency>
 		<!-- JWT  end -->
+		
+		<!-- alipay start -->
+		<dependency>
+			<groupId>org.jeewx</groupId>  
+			<artifactId>jeewx-api</artifactId>  
+			<version>1.2.0</version>  
+		</dependency>
+		<!-- alipay end -->
 	</dependencies>
 
 	<organization>
-		<name>JEECG 智能快速开发平台</name>
-		<url>www.jeecg.org</url>
+		<name>湖北一专汽车销售平台</name>
+		<url>www.yzcar.org</url>
 	</organization>
 	<build>
 		<plugins>
